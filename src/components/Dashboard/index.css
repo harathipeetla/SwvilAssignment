@@ -1,0 +1,35 @@
+.dashboard-details {
+  display: flex;
+  flex-direction: column;
+}
+.nav-bar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.nav-bar-container h1 {
+  width: 138px;
+  height: 29px;
+  top: 60px;
+  left: 380px;
+  gap: 0px;
+  opacity: 0px;
+  color: #000000;
+  text-align: right;
+}
+
+.pie-chart-schedule {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: Lato;
+}
+
+.profile-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 300px;
+}

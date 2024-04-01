@@ -1,0 +1,5 @@
+.dashboard-conatiner {
+  display: flex;
+  overflow-y: scroll;
+  max-height: 100vh;
+}
